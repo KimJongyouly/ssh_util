@@ -8,29 +8,20 @@ Dependency
 
 
 Example) 
-
+'''
 Change Mode 
-
 * $ chmod util.py 
-
 
 Run 
 * $ ./util.py 
 
 ssh> 
-
-
 Add Host File 
-
 * ssh> add_host_file file_name 
 
-
 Run Command 
-
 * ssh > run shell_command 
 
-
-
 scp_put 
-
 * ssh > scp_put file_name 
+'''
